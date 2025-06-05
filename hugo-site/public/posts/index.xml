@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on DavidCraddockReads.com</title>
+    <link>https://davidcraddockreads.com/posts/</link>
+    <description>Recent content in Posts on DavidCraddockReads.com</description>
+    <image>
+      <title>DavidCraddockReads.com</title>
+      <url>https://davidcraddockreads.com/mugshot.png</url>
+      <link>https://davidcraddockreads.com/mugshot.png</link>
+    </image>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>en</language>
+    <copyright>David Paul Craddock</copyright>
+    <lastBuildDate>Thu, 14 Nov 2024 00:40:14 +0000</lastBuildDate>
+    <atom:link href="https://davidcraddockreads.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chekov and Frayn&#39;s Wild Honey</title>
+      <link>https://davidcraddockreads.com/wild-honey/</link>
+      <pubDate>Thu, 14 Nov 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddockreads.com/?p=2</guid> 
+      <description>&lt;p&gt;Although it is not a play, or even, a book, I wanted to write something about the BBC Radio 4&amp;rsquo;s 2018 audio version of &amp;lsquo;Wild Honey&amp;rsquo;, starring David Tennant.&lt;/p&gt;
+&lt;p&gt;It was broadcast in 2018, and is currently unvailable to stream, but the iPlayer [https://www.bbc.co.uk/programmes/b0b7pbdy](URL is here) if it becomes available again to listen to.&lt;/p&gt;
+&lt;p&gt;I personally got my own copy from &lt;a href=&#34;Archive.org&#34;&gt;Archive.org&lt;/a&gt; - I won&amp;rsquo;t provide the deep-link, but I&amp;rsquo;m sure you can search for it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Books Blog</title>
+      <link>https://davidcraddockreads.com/new-books-blog/</link>
+      <pubDate>Mon, 04 Nov 2024 00:40:14 +0000</pubDate>
+       <guid isPermaLink="false">http://www.davidcraddockreads.com/?p=1</guid> 
+      <description>&lt;p&gt;This is my new reading/books blog, where I will write reviews of books I&amp;rsquo;ve read, chart progress on books that I&amp;rsquo;m reading, and anything else literary-related that I can think of.&lt;/p&gt;
+&lt;p&gt;It is using the same setup as my main &lt;a href=&#34;https://davidcraddock.net&#34;&gt;https://davidcraddock.net&lt;/a&gt; blog - as in - it&amp;rsquo;s self-hosted, and uses the Hugo Go-based static blogging engine.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
