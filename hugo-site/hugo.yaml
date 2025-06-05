@@ -1,7 +1,6 @@
 baseURL: "https://davidcraddockreads.com"
 title: DavidCraddockReads.com
 copyright: "© David Paul Craddock"
-paginate: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -63,6 +62,7 @@ params:
   TocOpen: true # open contents automantically
   comments: true
   images: ["/mugshot.png"]
+  pagerSize: 5
 
   profileMode:
     enabled: false
