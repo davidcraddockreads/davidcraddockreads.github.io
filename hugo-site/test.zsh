@@ -3,7 +3,7 @@
 set -e
 set -x
 
-rm -rf public/*
+rm -rf public/* || echo ''
 hugo --gc
 hugo server --config ./hugo.yaml 
 
