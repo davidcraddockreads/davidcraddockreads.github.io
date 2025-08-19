@@ -1,14 +1,16 @@
 ---
 category:
   - books
-date: "2024-11-04T00:40:14+00:00"
+date: "2025-08-19T00:40:14+00:00"
 guid: http://www.davidcraddockreads.com/?p=1
 title: Edgar Allan Poe - Radio 4 Audiobook
 url: /poe-audiobook
 
 ---
 
-I have been listening to [https://www.goodreads.com/book/show/59440943-edgar-allan-poe](Edgar Allan Poe's Radio 4 readings in audiobook format).
+![image](poe.jpg)
+
+I have been listening to (Edgar Allan Poe's Radio 4 readings in audiobook format)[https://www.goodreads.com/book/show/59440943-edgar-allan-poe]
 
 I find that his short stories are a really good length to listen to in noise-cancelling headphones when I am walking.
 
