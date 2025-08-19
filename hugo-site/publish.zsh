@@ -6,7 +6,7 @@ set -x
 rm -rf public/* || echo ''
 sudo chown -R david:david /mnt2/hqconfig/davidcraddockreads-hugo
 sudo chmod -R 770 /mnt2/hqconfig/davidcraddockreads-hugo
-cd /mnt2/hqconfig/davidcraddockreads-hugo
+cd /mnt2/hqconfig/davidcraddockreads-hugo/hugo-site
 git add -f .
 git commit -m "Latest hugo modification"
 git push origin main
