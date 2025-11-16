@@ -77,8 +77,8 @@ params:
     Title: "DavidCraddockReads.com"
 
     Content: >
-      Hi, I'm David. This is the blog where I chart progress on the books that I read, and what I think about them. I self-host this blog. Self-hosting websites have the disadvantage that sometimes they are not available - uptime is not 100%, and search engines don't like that aspect. However I feel it is worth it for the learning experience and the control I have over every aspect of my sites. If you need to contact me at any time, please use: <a href="mailto:3rp2mzocr@mozmail.com">3rp2mzocr@mozmail.com</a>.
-
+      Hi, I'm David. This is the blog where I chart progress on the books that I read, and what I think about them. I am <a href="https://davidcraddock.net">David Craddock the technologist from Manchester</a>, UK. I am NOT the same person as the much more famous <a href="https://davidcraddockbooks.com">David L. Craddock</a>, although I do enjoy his gaming writing!
+  If you need to contact me at any time, please use: <a href="mailto:3rp2mzocr@mozmail.com">3rp2mzocr@mozmail.com</a>.
       <img loading="lazy" style="object-fit:contain;max-width:100%;max-height:100%;width:127px;height:127px;margin-top:20px;margin-bottom:0px;" src="/mugshot.png" alt="A mugshot of me">
 
   socialIcons:
