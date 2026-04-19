@@ -53,7 +53,7 @@
 {{- end }}
 
 {{- $term := .Data.Term }}
-{{- range $index, $page := where $paginator.Pages "Type" "post" }} }}
+{{- range $index, $page := $paginator.Pages }}
 
 {{- $class := "post-entry" }}
 
