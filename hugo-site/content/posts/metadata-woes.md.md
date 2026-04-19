@@ -5,7 +5,7 @@ author: "David Craddock"
 date: "2026-04-19T00:42:00+00:00"
 ---
 
-Another one of my 'side-quests' (I have many 'side-quests', see also https://davidcraddockgames.github.io/retro-console-collection-update-2026/) is trying to organise my huge collection of ebooks and e-comics.
+Another one of my 'side-quests' (I have many 'side-quests', see also [my gaming collection 'side-quest'](https://davidcraddockgames.github.io/retro-console-collection-update-2026/) ) is trying to organise my huge collection of ebooks and e-comics.
 
 I have over 60,000 ebooks and comics, in all sorts of versions - PDF, EPUB and CBZ being the most common.
 
