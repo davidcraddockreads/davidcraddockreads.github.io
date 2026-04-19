@@ -25,6 +25,6 @@ Other options for scraping and correcting metadata include [LazyLibrarian](https
 
 What I am probably going to do is to setup an instance of LazyLibrarian and Mylar3 for each of the Calibre libraries - ebooks and comics - and attempt to use those tools to correct the metadata instead of relying on Calibre Web Automated for metadata at the moment. I will still use Calibre Web Automated to serve up the books and comics to read.
 
-Given the progress of development, I expect in 6 months to a year, Calibre Web Automated will do everything I need. It's just at the moment, it doesn't.
+Given the progress of development, I expect - in 6 months to a year - Calibre Web Automated will do everything I need. It's just at the moment, it doesn't.
 
 
