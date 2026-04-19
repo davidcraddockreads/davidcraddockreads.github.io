@@ -1,16 +1,22 @@
 baseURL: "https://davidcraddockreads.github.io/"
 title: DavidCraddockReads.com
 copyright: "© David Paul Craddock"
-theme: PaperMod
+theme: PaperMod-dpc
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: true
 buildExpired: true
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
+
+frontmatter:
+  date:
+  - date
+  - :git
+  - :fileModTime
 
 minify:
   disableXML: true
@@ -31,10 +37,6 @@ languages:
           weight: 10
         - name: GoodReads Inventory
           url: https://www.goodreads.com/user/show/22437975-david
-          weight: 15
-        - name: Non-DRM Books Inventories
-          url: https://home.davidcraddock.net
-          weight: 15
 
 outputs:
   home:
@@ -62,7 +64,10 @@ params:
   TocOpen: true # open contents automantically
   comments: true
   images: ["/mugshot.png"]
-  pagerSize: 5
+  social:
+    github: wordswords
+    instagram: djdavidcraddock
+
 
   profileMode:
     enabled: false
@@ -98,8 +103,18 @@ params:
 
 markup:
   goldmark:
+    backend: html5
+    failureLevel: fatal
+    noHeaderOrFooter: true
+    preserveTOC: true
+    sectionNumbers: false
+    trace: false
+    verbose: false
+    workingFolderCurrent: false
     renderer:
+      hardWraps: false
       unsafe: true
+      xhtml: false
 
   highlight:
     noClasses: false
@@ -112,5 +127,8 @@ markup:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
+  disqus:
+    shortname: davidcraddocknet
+
