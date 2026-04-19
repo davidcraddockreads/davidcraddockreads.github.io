@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://davidcraddockreads.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-19T00:42:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/metadata-woes/</loc>
+    <loc>http://localhost:1313/metadata-woes/</loc>
     <lastmod>2026-04-19T00:42:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-04-19T00:42:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/enshitification/</loc>
+    <loc>http://localhost:1313/enshitification/</loc>
     <lastmod>2025-11-16T00:42:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/all/</loc>
+    <loc>http://localhost:1313/all/</loc>
     <lastmod>2025-11-03T19:33:42+00:00</lastmod>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <lastmod>2025-11-03T19:33:42+00:00</lastmod>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/poe-audiobook/</loc>
+    <loc>http://localhost:1313/poe-audiobook/</loc>
     <lastmod>2025-08-19T00:40:14+00:00</lastmod>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/giovannis-room/</loc>
+    <loc>http://localhost:1313/giovannis-room/</loc>
     <lastmod>2025-05-06T00:40:14+00:00</lastmod>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/wild-honey/</loc>
+    <loc>http://localhost:1313/wild-honey/</loc>
     <lastmod>2024-11-14T00:40:14+00:00</lastmod>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/new-books-blog/</loc>
+    <loc>http://localhost:1313/new-books-blog/</loc>
     <lastmod>2024-11-04T00:40:14+00:00</lastmod>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>https://davidcraddockreads.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

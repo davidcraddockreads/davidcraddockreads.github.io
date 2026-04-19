@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on DavidCraddockReads.com</title>
-    <link>https://davidcraddockreads.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on DavidCraddockReads.com</description>
     <image>
       <title>DavidCraddockReads.com</title>
-      <url>https://davidcraddockreads.github.io/mugshot.png</url>
-      <link>https://davidcraddockreads.github.io/mugshot.png</link>
+      <url>http://localhost:1313/mugshot.png</url>
+      <link>http://localhost:1313/mugshot.png</link>
     </image>
     <generator>Hugo -- 0.160.1</generator>
     <language>en</language>
     <copyright>David Paul Craddock</copyright>
     <lastBuildDate>Sun, 19 Apr 2026 00:42:00 +0000</lastBuildDate>
-    <atom:link href="https://davidcraddockreads.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metadata Woes</title>
-      <link>https://davidcraddockreads.github.io/metadata-woes/</link>
+      <link>http://localhost:1313/metadata-woes/</link>
       <pubDate>Sun, 19 Apr 2026 00:42:00 +0000</pubDate>
-       <guid isPermaLink="false">https://davidcraddockreads.github.io/metadata-woes/</guid> 
+       <guid isPermaLink="false">http://localhost:1313/metadata-woes/</guid> 
       <description>&lt;p&gt;Another one of my &amp;lsquo;side-quests&amp;rsquo; (I have many &amp;lsquo;side-quests&amp;rsquo;, see also &lt;a href=&#34;https://davidcraddockgames.github.io/retro-console-collection-update-2026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;my gaming collection &amp;lsquo;side-quest&amp;rsquo;&lt;/a&gt;
  ) is trying to organise my huge collection of ebooks and e-comics.&lt;/p&gt;
 &lt;p&gt;I have over 60,000 ebooks and comics, in all sorts of versions - PDF, EPUB and CBZ being the most common.&lt;/p&gt;
@@ -26,7 +26,7 @@
     </item>
     <item>
       <title>Enshitification - Corey Doctorow</title>
-      <link>https://davidcraddockreads.github.io/enshitification/</link>
+      <link>http://localhost:1313/enshitification/</link>
       <pubDate>Sun, 16 Nov 2025 00:42:00 +0000</pubDate>
        <guid isPermaLink="false">http://davidcraddockreads.com/enshitification</guid> 
       <description>&lt;p&gt;Disclaimer: I read through this book in one instance using academic reading techniques that are designed to get the most out of the book for me in a short amount of time while skipping over bits that did not interest me, so naturally that will affect the depth of the review.&lt;/p&gt;
@@ -35,7 +35,7 @@
     </item>
     <item>
       <title>Edgar Allan Poe - Radio 4 Audiobook</title>
-      <link>https://davidcraddockreads.github.io/poe-audiobook/</link>
+      <link>http://localhost:1313/poe-audiobook/</link>
       <pubDate>Tue, 19 Aug 2025 00:40:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddockreads.com/?p=1</guid> 
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;poe.jpg&#34; alt=&#34;image&#34;  /&gt;
@@ -49,7 +49,7 @@
     </item>
     <item>
       <title>Giovanni&#39;s Room by James Baldwin</title>
-      <link>https://davidcraddockreads.github.io/giovannis-room/</link>
+      <link>http://localhost:1313/giovannis-room/</link>
       <pubDate>Tue, 06 May 2025 00:40:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddockreads.com/?p=3</guid> 
       <description>&lt;p&gt;&lt;strong&gt;SPOILERS PRESENT&lt;/strong&gt;&lt;/p&gt;
@@ -62,7 +62,7 @@
     </item>
     <item>
       <title>Chekov and Frayn&#39;s Wild Honey</title>
-      <link>https://davidcraddockreads.github.io/wild-honey/</link>
+      <link>http://localhost:1313/wild-honey/</link>
       <pubDate>Thu, 14 Nov 2024 00:40:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddockreads.com/?p=2</guid> 
       <description>&lt;p&gt;Although it is not a play, or even, a book, I wanted to write something about the BBC Radio 4&amp;rsquo;s 2018 audio version of &amp;lsquo;Wild Honey&amp;rsquo;, starring David Tennant.&lt;/p&gt;
@@ -73,7 +73,7 @@
     </item>
     <item>
       <title>New Books Blog</title>
-      <link>https://davidcraddockreads.github.io/new-books-blog/</link>
+      <link>http://localhost:1313/new-books-blog/</link>
       <pubDate>Mon, 04 Nov 2024 00:40:14 +0000</pubDate>
        <guid isPermaLink="false">http://www.davidcraddockreads.com/?p=1</guid> 
       <description>&lt;p&gt;This is my new reading/books blog, where I will write reviews of books I&amp;rsquo;ve read, chart progress on books that I&amp;rsquo;m reading, and anything else literary-related that I can think of.&lt;/p&gt;
