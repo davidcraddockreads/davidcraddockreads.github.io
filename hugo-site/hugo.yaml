@@ -4,7 +4,6 @@ copyright: "© David Paul Craddock"
 theme: PaperMod-dpc
 
 enableInlineShortcodes: true
-enableGoodreads: true
 enableRobotsTXT: true
 buildDrafts: true
 buildFuture: true
@@ -69,6 +68,7 @@ params:
   TocOpen: true # open contents automantically
   comments: true
   images: ["/mugshot.png"]
+  enableGoodreads: true
   social:
     github: wordswords
     instagram: djdavidcraddock
