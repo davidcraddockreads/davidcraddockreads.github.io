@@ -93,8 +93,8 @@ params:
         border: 1px solid gray;
         border-radius:10px;
         padding: 10px 5px 10px 5px;
-        background-color: #FFF;
-        color: #000;
+        background-color: #000;
+        color: #FFF;
         width: 300px
       }
 
