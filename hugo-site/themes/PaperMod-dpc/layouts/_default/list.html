@@ -48,11 +48,12 @@
 {{- $pages := where site.RegularPages "Type" "posts" }}
 {{- $paginator := .Paginate $pages }}
 
-{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
-{{- partial "home_info.html" . }}
-{{ if .Site.Params.enableGoodreads }}
+{{ if and .IsHome .Site.Params.enableGoodreads }}
     {{ partial "goodreads.html" . }}
 {{ end }}
+
+{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
+{{- partial "home_info.html" . }}
 {{- end }}
 
 {{- $term := .Data.Term }}
