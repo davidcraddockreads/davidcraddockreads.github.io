@@ -50,6 +50,9 @@
 
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
+{{ if .Site.Params.enableGoodreads }}
+    {{ partial "goodreads.html" . }}
+{{ end }}
 {{- end }}
 
 {{- $term := .Data.Term }}
