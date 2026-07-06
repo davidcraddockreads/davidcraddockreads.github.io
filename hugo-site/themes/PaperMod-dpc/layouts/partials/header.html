@@ -122,9 +122,6 @@
             </div>
         </div>
         {{- $currentPage := . }}
-        {{ if .Site.Params.enableGoodreads }}
-            {{ partial "goodreads.html" . }}
-        {{ end }}
         <ul id="menu">
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
