@@ -15,3 +15,8 @@ This scanner app took me about one hour to create and fully test, and now it is 
 
 So anyway. This is a good use of GenAI software development, in my book!
 
+Here is the repo:
+
+[https://github.com/wordswords/pdf-isbn-renamer](https://github.com/wordswords/pdf-isbn-renamer)
+
+
