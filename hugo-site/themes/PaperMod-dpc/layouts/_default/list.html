@@ -52,6 +52,10 @@
 {{- partial "home_info.html" . }}
 {{- end }}
 
+{{ if and .IsHome .Site.Params.enableGoodreads }}
+    {{ partial "goodreads.html" . }}
+{{ end }}
+
 {{- $term := .Data.Term }}
 {{- range $index, $page := $paginator.Pages }}
 
@@ -64,9 +68,6 @@
 {{- $class = "post-entry tag-entry" }}
 {{- end }}
 
-{{ if and .IsHome .Site.Params.enableGoodreads }}
-    {{ partial "goodreads.html" . }}
-{{ end }}
 
 <article class="{{ $class }}">
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
