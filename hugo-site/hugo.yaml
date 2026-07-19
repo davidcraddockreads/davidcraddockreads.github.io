@@ -32,9 +32,6 @@ languages:
       series: series
     menu:
       main:
-        - name: Search
-          url: search/
-          weight: 10
         - name: GoodReads Inventory
           url: https://www.goodreads.com/user/show/22437975-david
           weight: 11
