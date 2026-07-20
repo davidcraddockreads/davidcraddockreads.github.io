@@ -5,6 +5,14 @@ author: "David Craddock"
 date: "2026-07-14T20:42:00+00:00"
 ---
 
+
+{{< figure
+    src="barcode.png"
+    alt="Explanatory diagram of the different components that make up a book ISBN barcode, and how to interpret it."
+    caption="ISBN numbers explained."
+>}}
+
+
 Today I vibe-coded a python scanner application that OCRs the first 12 pages and last 4 pages of all the currently unidentified PDFs in my PDF Ebook Calibre library.
 
 It looks for an ISBN number, and if it finds one, it queries several free metadata sources on books to fetch the correct metadata for the PDF file, and then encodes the author, title, isbn number and publisher date through renaming the file.
