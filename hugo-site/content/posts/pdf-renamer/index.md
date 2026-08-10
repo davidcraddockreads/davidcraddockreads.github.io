@@ -1,6 +1,6 @@
 ---
-date: "2026-07-14T20:42:00+00:00"
-title: PDF-Renamer-Scanner
+title: "PDF Renamer Scanner"
+date: 2026-07-14T20:42:00+00:00
 url: /PDF-Renamer-Scanner
 guid: http://davidcraddockreads.com/PDF-Renamer-Scanner
 
