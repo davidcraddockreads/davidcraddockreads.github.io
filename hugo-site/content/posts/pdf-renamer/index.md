@@ -1,8 +1,9 @@
 ---
+date: "2026-07-14T20:42:00+00:00"
 title: PDF-Renamer-Scanner
 url: /PDF-Renamer-Scanner
-author: "David Craddock"
-date: "2026-07-14T20:42:00+00:00"
+guid: http://davidcraddockreads.com/PDF-Renamer-Scanner
+
 ---
 
 
